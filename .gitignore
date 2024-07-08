@@ -5,6 +5,8 @@ __pycache__/
 .DS_Store
 *.code-workspace
 
+ollama_files/
+
 # C extensions
 *.so
 
